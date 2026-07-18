@@ -48,6 +48,8 @@
 
  > 将过往的鼠标指针适配于Ubuntu等Linux系统！
 
+ > 适用于Minecraft Java Edition 1.20.1+ 的专注于冷饮的模组Frost Delight！
+
 ## 联系方式：
 
 📮2069130069@qq.com
