@@ -10,7 +10,7 @@
 
 <img width="1920" height="1080" alt="IMG_9269" src="https://github.com/user-attachments/assets/6e4d85cf-30ef-462c-a90a-bd3917d20a82" />
 
-
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=starry-3430)](https://github.com/stats-organization/github-stats-extended)
 
 ## 主要信息
 
