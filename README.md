@@ -43,6 +43,8 @@
 
 **适用于Windows的纳西妲风格鼠标指针**  [这里这里！](https://github.com/Star-Clara/Nahida_style_mouse_cur_for_Windows)
 
+**适用于Windows的桌面伴侣小月Luna！最最最好的朋友🥰！** [这里这里！](https://github.com/Starry-3430/XiaoYueLunaAgent)
+
 ## 🌙 正在筹划（Plans）：
 
  > 新的鼠标指针！
