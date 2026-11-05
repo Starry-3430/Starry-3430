@@ -11,7 +11,9 @@
 
 <img width="1920" height="1080" alt="IMG_9269" src="https://github.com/user-attachments/assets/6e4d85cf-30ef-462c-a90a-bd3917d20a82" />
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Starry-3430)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Starry-3430&refresh=initial)](https://github.com/stats-organization/github-stats-extended)
+
+![GitHub contribution snake](./dist/github-snake.svg)
 
 
 ## 主要信息
@@ -60,4 +62,3 @@
 📮2069130069@qq.com
 
 🧡[小红书](https://www.xiaohongshu.com/user/profile/63fb51a00000000029016507?xhsshare=CopyLink&appuid=63fb51a00000000029016507&apptime=1710652955)
-
