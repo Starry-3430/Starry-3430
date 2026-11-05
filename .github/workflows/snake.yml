@@ -1,0 +1,35 @@
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=%23c8a97e&color_dots=%23f7f1e8,%23eadcc8,%23ddc7a6,%23c7a27a,%23a97c50
+
+      - name: Refresh GitHub stats image
+        run: |
+          today="$(date -u +%F)"
+          sed -i -E "s/(github-stats-extended\.vercel\.app\/api\?username=Starry-3430&refresh=)[^)]*/\1${today}/" README.md
+
+      - name: Commit generated assets
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions[bot]
+          author_email: 41898282+github-actions[bot]@users.noreply.github.com
+          message: "chore: refresh contribution snake and GitHub stats"
