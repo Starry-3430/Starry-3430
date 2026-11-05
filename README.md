@@ -11,7 +11,7 @@
 
 <img width="1920" height="1080" alt="IMG_9269" src="https://github.com/user-attachments/assets/6e4d85cf-30ef-462c-a90a-bd3917d20a82" />
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Starry-3430&refresh=initial)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Starry-3430&refresh=2026-11-05)](https://github.com/stats-organization/github-stats-extended)
 
 ![GitHub contribution snake](./dist/github-snake.svg)
 
