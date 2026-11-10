@@ -20,7 +20,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=%23c8a97e&color_dots=%23f7f1e8,%23eadcc8,%23ddc7a6,%23c7a27a,%23a97c50
+            dist/github-snake.svg?color_snake=%239b59b6&color_dots=%23f3e5f5,%23e1bee7,%23ce93d8,%23ba68c8,%238e24aa
 
       - name: Refresh GitHub stats image
         run: |
